@@ -1,0 +1,89 @@
+\documentclass[options]{article}
+
+ \usepackage[
+    top    = 2.75cm,
+    bottom = 2.50cm,
+    left   = 4.00cm,
+    right  = 3.50cm]{geometry}
+
+\usepackage[parfill]{parskip}
+
+\title{How To Install A “simple” Computer Program?}
+\author{SSENKAAYI CHARLES  \thanks{supervisor: Ernest Mwebaze}}
+\date{%
+    Makerere University\\%
+    May 17, 2017
+}
+
+
+\begin{document}
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+
+
+
+
+\section{\textbf{ Introduction}} 
+This research focuses on two ways in which a simple computer program can be installed. Since the command line interface was the fast invented interface, it required computer users to be able to memories a number of commands to be able to install a given computer program. The graphical user interface is the most recent user interface for most operating system software’s. In deeded, recent research shows that GUI is the most preferred and commonly used interface due to its ease for use towards computer users.   Since GUI is the most commonly used interface, this pulled my attentions to focus my research mostly on it.
+
+\subsection{\textbf{Background}}
+A computer program can be installed in two different ways, using the graphical user interface (GUI) and the command line interface (CLI). The graphical user interface is a side on an operating system which involves pointing and selecting on icons or images of computer programs so as to perform user tasks. The command line interface is the second side of an operating systems and it involves the use of commands for user tasks to be performed. \bigbreak
+
+Since most computer users want to use computers in the most convenient ways, we shall focus most on the graphical user interface because it is easy to use.
+This explains why passing mathematics at the lower levels is a pre-requisite before one can study computer science in any reputable university across the globe. Therefore this gave birth to a belief that all computer science students should at least be fairly good at Mathematics. 
+
+
+\subsection{\textbf{Problem Statement}}
+This project will examine the impact of a computer science student's mathematical background on their academic performance and programming skills.
+
+
+\subsection{\textbf{Objectives}}
+
+
+\subsubsection{\textbf{Main Objective}} 
+My analysis encounters on testing the expectations established by GUI and CLI .these suggest the following:                                        
+
+
+\subsubsection{\textbf{Specific Objectives}}
+
+\begin{itemize}
+  \item    For GUI expect computer users to find it simple and easy to install programs with it
+  \item To perform a thorough analysis on the collected data.
+  \item For the CLI, its kinder complex and it’s mostly used by computer experts. 
+\end{itemize}
+
+
+\subsection{\textbf{Scope}}
+This research is aimed at computer science students at higher institutions of learning such as Makerere University.
+\subsection{\textbf{Research Significance}}
+This study is important because it aims at improving the computer science curriculum at higher institutions of learning.
+
+
+
+\section{\textbf{Literature review}}
+
+We looked at \cite{latexGuide}Makerere University's B.Sc. (Computer Science) programWhen installing any computer program, the user has to fast focus most on the number of bits his or her operating systems supports. This helps the user to know exactly the type of software’s suitable for his or her computer. Then insert a storage media containing the program you want to install into your computer. When the media is ready for use, open the program you want to install and follow the procedure’s indicated. 
+
+
+
+
+\section{\textbf{Methodology}}
+The proposed methodology consists of two phases, data collection and data analysis.\bigbreak
+Data will be collected using ODK Collect, which will later on be uploaded to the ODK aggregate server to carry out all the required analysis. Different kinds of data (including images and GPS coordinates) will be collected, these include: 
+
+\begin{itemize}
+  \item Student’s name  
+  \item recent photo
+  \item student's view in audio format
+
+\end{itemize}
+
+
+
+\begin{thebibliography}{10} \bibitem{latexGuide} Makerere University, \emph{Computer science curriculum(May 2009)}, Available at \texttt{http://cit.mak.ac.ug/downloads/} \end{thebibliography}
+
+
+
+\end{document}
